@@ -1,3 +1,4 @@
+HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -54,3 +55,10 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# Park@DU Prototype
+
+This is a Figma prototype for a parking app designed to help University of Denver commuter students find affordable and reliable parking.
+
+## View Prototype
+https://www.figma.com/proto/IG08NqFz6X9c0XAiSIVDgM/COMP3100_Crawford_Assignment5?node-id=1-2&t=47Nrwjj8TstB6MW4-1 cf0788a6b0dc7ac15f3d047a3061183b33e12d19
